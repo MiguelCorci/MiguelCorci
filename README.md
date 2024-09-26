@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu Perfil 🌠
 
-<!--
-**MiguelCorci/MiguelCorci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Miguel Corci
 
-Here are some ideas to get you started:
+- Estudo no Colégio Nilo Brandão
+- Também estou estudando pela Alura
+- Atualmente me desenvolvo na linguaguem JavaScript
+- Tenho 15 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Para entrar em Contato 📫
+
+  miguel.corci@escola.pr.gov.br
+  @miguel.corci
